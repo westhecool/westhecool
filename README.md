@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @westhecool
 - 👀 I’m interested in: codeing
-- 🌱 I’m currently learning: c# 
+- 🌱 I’m currently learning: python 
 - 💞️ I’m looking to collaborate on: anything
-- 📫 How to reach me: https://contact.home.wesley.rf.gd/?p=github
+- 📫 How to reach me: <ta>westhecool</ta>#5969 (discord)
 
 <!---
 westhecool/westhecool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
