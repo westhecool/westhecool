@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @westhecool
-- 👀 I’m interested in: codeing
+- 👀 I’m interested in: coding
 - 🌱 I’m currently learning: python 
 - 💞️ I’m looking to collaborate on: anything
 - 📫 How to reach me: @westhecool (discord)
