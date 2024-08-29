@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @westhecool
-- 👀 I’m interested in: coding
-- 🌱 I’m currently learning: python 
+- 👀 I’m interested in: Cybersecurity
+- 🌱 I’m currently learning: how to do college
 - 💞️ I’m looking to collaborate on: anything
-- 📫 How to reach me: @westhecool (discord)
-
-<!---
-westhecool/westhecool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me: [contact.westhedev.xyz](https://contact.westhedev.xyz
