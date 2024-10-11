@@ -2,4 +2,4 @@
 - 👀 I’m interested in: Cybersecurity
 - 🌱 I’m currently learning: how to do college
 - 💞️ I’m looking to collaborate on: anything
-- 📫 How to reach me: [contact.westhedev.xyz](https://contact.westhedev.xyz
+- 📫 How to reach me: [contact.westhedev.xyz](https://contact.westhedev.xyz)
